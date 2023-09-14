@@ -1,0 +1,55 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="35">
+            <item index="0" class="java.lang.String" itemvalue="pyvista" />
+            <item index="1" class="java.lang.String" itemvalue="scikit-image" />
+            <item index="2" class="java.lang.String" itemvalue="folium" />
+            <item index="3" class="java.lang.String" itemvalue="csbdeep" />
+            <item index="4" class="java.lang.String" itemvalue="cvxopt" />
+            <item index="5" class="java.lang.String" itemvalue="mapclassify" />
+            <item index="6" class="java.lang.String" itemvalue="colorcet" />
+            <item index="7" class="java.lang.String" itemvalue="kornia" />
+            <item index="8" class="java.lang.String" itemvalue="tensorflow" />
+            <item index="9" class="java.lang.String" itemvalue="KDEpy" />
+            <item index="10" class="java.lang.String" itemvalue="kneed" />
+            <item index="11" class="java.lang.String" itemvalue="ngs_tools" />
+            <item index="12" class="java.lang.String" itemvalue="pysal" />
+            <item index="13" class="java.lang.String" itemvalue="descartes" />
+            <item index="14" class="java.lang.String" itemvalue="ipywidgets" />
+            <item index="15" class="java.lang.String" itemvalue="python-igraph" />
+            <item index="16" class="java.lang.String" itemvalue="opencv-python" />
+            <item index="17" class="java.lang.String" itemvalue="Shapely" />
+            <item index="18" class="java.lang.String" itemvalue="plotly" />
+            <item index="19" class="java.lang.String" itemvalue="vtk" />
+            <item index="20" class="java.lang.String" itemvalue="dynamo-release" />
+            <item index="21" class="java.lang.String" itemvalue="pandana" />
+            <item index="22" class="java.lang.String" itemvalue="loompy" />
+            <item index="23" class="java.lang.String" itemvalue="fbgbp" />
+            <item index="24" class="java.lang.String" itemvalue="POT" />
+            <item index="25" class="java.lang.String" itemvalue="pyro-ppl" />
+            <item index="26" class="java.lang.String" itemvalue="geopandas" />
+            <item index="27" class="java.lang.String" itemvalue="nudged" />
+            <item index="28" class="java.lang.String" itemvalue="logging-release" />
+            <item index="29" class="java.lang.String" itemvalue="typing_extensions" />
+            <item index="30" class="java.lang.String" itemvalue="setuptools" />
+            <item index="31" class="java.lang.String" itemvalue="torch" />
+            <item index="32" class="java.lang.String" itemvalue="nbconvert" />
+            <item index="33" class="java.lang.String" itemvalue="leidenalg" />
+            <item index="34" class="java.lang.String" itemvalue="matplotlib" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="patsy.dmatrix" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
